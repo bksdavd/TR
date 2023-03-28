@@ -1,0 +1,14 @@
+C:\Users\Baksa\source\repos\TanulmanyiRendszerUjra\TanulmanyiRendszerUjra\obj\Debug\TanulmanyiRendszerUjra.csproj.AssemblyReference.cache
+C:\Users\Baksa\source\repos\TanulmanyiRendszerUjra\TanulmanyiRendszerUjra\obj\Debug\TanulmanyiRendszerUjra.csproj.SuggestedBindingRedirects.cache
+C:\Users\Baksa\source\repos\TanulmanyiRendszerUjra\TanulmanyiRendszerUjra\obj\Debug\TanulmanyiRendszerUjra.BejelentkezoForm.resources
+C:\Users\Baksa\source\repos\TanulmanyiRendszerUjra\TanulmanyiRendszerUjra\obj\Debug\TanulmanyiRendszerUjra.Properties.Resources.resources
+C:\Users\Baksa\source\repos\TanulmanyiRendszerUjra\TanulmanyiRendszerUjra\obj\Debug\TanulmanyiRendszerUjra.TargyfelvetelForm.resources
+C:\Users\Baksa\source\repos\TanulmanyiRendszerUjra\TanulmanyiRendszerUjra\obj\Debug\TanulmanyiRendszerUjra.csproj.GenerateResource.cache
+C:\Users\Baksa\source\repos\TanulmanyiRendszerUjra\TanulmanyiRendszerUjra\obj\Debug\TanulmanyiRendszerUjra.csproj.CoreCompileInputs.cache
+C:\Users\Baksa\source\repos\TanulmanyiRendszerUjra\TanulmanyiRendszerUjra\bin\Debug\TanulmanyiRendszerUjra.exe.config
+C:\Users\Baksa\source\repos\TanulmanyiRendszerUjra\TanulmanyiRendszerUjra\bin\Debug\TanulmanyiRendszerUjra.exe
+C:\Users\Baksa\source\repos\TanulmanyiRendszerUjra\TanulmanyiRendszerUjra\bin\Debug\TanulmanyiRendszerUjra.pdb
+C:\Users\Baksa\source\repos\TanulmanyiRendszerUjra\TanulmanyiRendszerUjra\obj\Debug\TanulmanyiRendszerUjra.AdmForm.resources
+C:\Users\Baksa\source\repos\TanulmanyiRendszerUjra\TanulmanyiRendszerUjra\obj\Debug\TanulmanyiRendszerUjra.exe
+C:\Users\Baksa\source\repos\TanulmanyiRendszerUjra\TanulmanyiRendszerUjra\obj\Debug\TanulmanyiRendszerUjra.pdb
+C:\Users\Baksa\source\repos\TanulmanyiRendszerUjra\TanulmanyiRendszerUjra\obj\Debug\TanulmanyiRendszerUjra.KilepForm.resources
